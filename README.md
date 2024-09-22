@@ -11,7 +11,7 @@
 Nick-Vicks/Nick-Vicks is a✨ cool site for webbing.
 --->
 <!DOCTYPE html>
-<html lang="fr-ca">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
